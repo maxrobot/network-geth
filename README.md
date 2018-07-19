@@ -17,7 +17,7 @@ run the command
 ```
 $ tree -L 2
 ```
-returning if correct:
+returning
 ```
 .
 ├── account1
@@ -53,7 +53,7 @@ The repository that comes with accounts defined as in `accounts.json`:
 
 
 ### Requirements
-Prior to launching any Ethereum network users will need to download and install go-ethereum as either a [binary](https://geth.ethereum.org/) or as a (go package)[https://github.com/ethereum/go-ethereum].
+Prior to launching any Ethereum network users will need to download and install go-ethereum as either a [binary](https://geth.ethereum.org/) or as a [go package](https://github.com/ethereum/go-ethereum).
 
 Requirements:
     * golang version: 1.8.x
